@@ -1,0 +1,7 @@
+{
+  "oauth2": {
+      "redirect_uri": "http://localhost:3333/login/callback",
+      "client_id": "1028351251605364797",
+      "scopes": ["identify"]
+  }
+}
